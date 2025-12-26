@@ -1,39 +1,38 @@
 # 🔳 QR Code Generator
-
 > A clean and responsive web application that generates downloadable QR codes for any URL in seconds.
+> 
+[![Demo Video](./thumbnail.png)](https://www.loom.com/share/6ad1142f0bcc4f089c0d5894d7305210)
 
 ---
 
-## 👀 Why This Project Stands Out
+## ✨ Features
 
-- ⚡ Instant QR code generation with customizable sizes  
-- 🎯 Clean, modern UI built with Tailwind CSS  
-- 📱 Fully responsive design (mobile-first)  
-- 💾 Download-ready QR codes  
-- 🧠 Demonstrates ability to learn, follow tutorials, and implement features independently  
+- Generate QR codes from any valid URL  
+- Multiple size options (100x100 up to 700x700)  
+- Loading spinner for better UX  
+- Modern UI using Google Fonts (Poppins)  
+- Downloadable QR code image
 
----
+--- 
 
 ## 🛠️ Tech Stack
 
 - **HTML5** – Semantic and accessible structure  
 - **Tailwind CSS** – Utility-first styling for rapid UI development  
 - **JavaScript (Vanilla)** – DOM manipulation & logic  
-- **QRCode.js** – QR code generation library  
-
+- **QRCode.js** – QR code generation library
+ 
 ---
 
-## ✨ Features
+## 👀 Why This Project Stands Out
 
-- 🔗 Generate QR codes from any valid URL  
-- 📐 Multiple size options (100x100 up to 700x700)  
-- ⏳ Loading spinner for better UX  
-- 🎨 Modern UI using Google Fonts (Poppins)  
-- 📥 Downloadable QR code image  
+- Instant QR code generation with customizable sizes  
+- Clean, modern UI built with Tailwind CSS  
+- Fully responsive design (mobile-first)  
+- Download-ready QR codes  
+- Demonstrates ability to learn, follow tutorials, and implement features independently  
 
 ---
-
-## 📂 Project Structure
 
 ## 🧠 What I Learned
 
@@ -55,6 +54,6 @@
 2. Open index.html in your browser
 3. Enter a URL and generate your QR code 🚀
 
-[![Demo Video](./thumbnail.png)](https://www.loom.com/share/6ad1142f0bcc4f089c0d5894d7305210)
+
 
 
