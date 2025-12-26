@@ -55,5 +55,6 @@
 2. Open index.html in your browser
 3. Enter a URL and generate your QR code 🚀
 
-[![Watch the video](https://cdn.loom.com/sessions/thumbnails/6ad1142f0bcc4f089c0d5894d7305210-with-play.gif)](https://www.loom.com/share/6ad1142f0bcc4f089c0d5894d7305210)
+[![Demo Video](./thumbnail.png)](https://www.loom.com/share/6ad1142f0bcc4f089c0d5894d7305210)
+
 
