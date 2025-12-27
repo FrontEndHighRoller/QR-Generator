@@ -50,9 +50,20 @@
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/qr-code-generator.git
+   git clone https://github.com/FrontEndHighRoller/QR-Generator.git
 2. Open index.html in your browser
-3. Enter a URL and generate your QR code 🚀
+3. Resize the screen to see responsive layouts and image switching in action 🎯
+
+---
+
+🙋‍♂️ Author
+Dennis Rumanek
+
+GitHub: https://github.com/FrontEndHighRoller
+
+LinkedIn: https://www.linkedin.com/in/dennis-rumanek/
+
+⭐ If you like this solution, feel free to star the repository!
 
 
 
